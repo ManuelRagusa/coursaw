@@ -1,0 +1,742 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"html_output"
+			],
+			[
+				"fetch",
+				"fetch_array"
+			],
+			[
+				"course",
+				"course_id"
+			],
+			[
+				"protect",
+				"protect_teacher_page"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"curr",
+				"current_password"
+			],
+			[
+				"pas",
+				"password_again"
+			],
+			[
+				"required",
+				"required"
+			],
+			[
+				"password",
+				"password_again"
+			],
+			[
+				"func",
+				"func_get_args"
+			],
+			[
+				"myres",
+				"mysql_result"
+			],
+			[
+				"myqu",
+				"mysql_query"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"myc",
+				"mysql_connect"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"setGee",
+				"setGenere"
+			],
+			[
+				"label",
+				"labelName"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"setL",
+				"setLabel"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"cou",
+				"coursaw"
+			],
+			[
+				"on",
+				"onkeyup	Attr"
+			],
+			[
+				"con",
+				"confermapwd"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"coursaw",
+				"coursaw_user"
+			],
+			[
+				"FILTER_",
+				"FILTER_SANITIZE_STRING"
+			],
+			[
+				"error",
+				"error_msg"
+			],
+			[
+				"filter",
+				"filter_input"
+			],
+			[
+				"for",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "core/functions/courses.php",
+			"settings":
+			{
+				"buffer_size": 6568,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/functions.js",
+			"settings":
+			{
+				"buffer_size": 731,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "course.php",
+			"settings":
+			{
+				"buffer_size": 1956,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/teacher.php",
+			"settings":
+			{
+				"buffer_size": 210,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/student.php",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 83.0,
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"restart"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/functions/general.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/head.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/database/database_population.sql",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/css/screen.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/widgets/login.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/editactivities.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/delete_course.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/init.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/database/database_creation.sql",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/database/database_reset.sql",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/course.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/teacher.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/widgets/loggedin.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/profile.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/createcourse.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/functions/users.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/denied.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/protected.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/database/connect.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/register.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/core/functions/courses.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/settings.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/aside.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/student.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/header.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/js/tinymce/skins/lightgray/fonts/tinymce.woff",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/js/tinymce/skins/lightgray/fonts/tinymce.svg",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/js/tinymce/langs/readme.md",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/widgets/student.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/widgets/teacher.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/forum.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/overall/header.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/overall/footer.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/test.html",
+		"/C/Users/manuel/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/images/profile/.htaccess",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/.htaccess",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/changepassword.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/login.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/downloads.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/menu.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/contact.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/widgets/user_count.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/ripet.cpp",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/logout.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/includes/footer.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/ProgettoSAW/screen.css",
+		"/C/Users/manuel/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/manuel/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/memo.todo",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/includes/getProfile.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/includes/editProfile.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/login.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/register.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/includes/register.inc.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/js/forms.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/profile.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/styles/main.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/database_configuration.sql",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/js/ajax.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/includes/confirmPwd.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/register_success.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/includes/config.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/CourSAW/logout.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/test.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/js/forms.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/register_success.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/register.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/includes/register.inc.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/includes/logout.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/includes/psl-config.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/error.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/styles/main.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/includes/functions.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/includes/db_connect.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/projects/Proj1/js/sha512.js",
+		"/C/wamp/www/SecureLogin/forms.js",
+		"/C/wamp/www/SecureLogin/sha512.js",
+		"/C/wamp/www/SecureLogin/process_login.php",
+		"/C/wamp/www/SecureLogin/logout.php",
+		"/C/wamp/www/SecureLogin/functions.php",
+		"/C/wamp/www/SecureLogin/db_connect.php",
+		"/C/wamp/www/SecureLogin/index.html",
+		"/C/Users/manuel/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/testmysql.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\projects\\ProgettoSAW",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"protect_course_page",
+			"course",
+			"name",
+			"category",
+			"</p>",
+			"<p>",
+			"title",
+			"course",
+			"1",
+			");",
+			"user_id",
+			";",
+			"ddd",
+			"title",
+			"ppp",
+			"enrico",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"com'",
+			", email",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Billy",
+			"billy",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"asd",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"Manuel",
+			"manuel",
+			"li",
+			"BBB",
+			"AAA",
+			");\n",
+			"AAA",
+			");",
+			"get_result",
+			"user",
+			"protect_teacher_page",
+			"user_teacher",
+			"ProgettoSAW",
+			".php",
+			"*.php",
+			"title",
+			"username",
+			"user_id_",
+			"username",
+			"register",
+			"username",
+			"'],\n",
+			"select",
+			"\\\"",
+			"=\\\"",
+			"=\"",
+			"li",
+			"strtolower",
+			"implode",
+			"array_",
+			"echo",
+			"</div>",
+			"<div>",
+			"register",
+			"first_name",
+			"first",
+			";",
+			"username",
+			"label",
+			"FormData",
+			"socialLength",
+			"postLength",
+			"submitSocial"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "core/functions/courses.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2644,
+								2644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								172
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "course.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "includes/teacher.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "includes/student.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "progettoSAW.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
